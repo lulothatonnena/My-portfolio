@@ -86,6 +86,7 @@ footer {
 
 footer p {
     margin-top: 22px; /* Add space at the top of the text */
+    margin-bottom: 15px;
 }
 
 /* Socials */
