@@ -89,6 +89,10 @@ footer p {
     margin-bottom: 15px;
 }
 
+footer img {
+    border-radius: 10px
+}
+
 /* Socials */
 .social-icons {
     display: flex;
