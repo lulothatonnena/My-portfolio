@@ -58,7 +58,9 @@ section {
 section:hover {
     transform: scale(1.02);
 }
-
+#contact {
+    padding-bottom: 10px;
+}
 /* Projects */
 .project {
     background-color: #fff;
@@ -84,10 +86,12 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+/* Socials */
 .social-icons {
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 15px;
 }
 
 .social-icons a img {
