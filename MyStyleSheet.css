@@ -57,6 +57,7 @@ section {
 
 section:hover {
     transform: scale(1.02);
+}
 
 /* Projects */
 .project {
@@ -79,7 +80,6 @@ footer {
     color: #fff;
     text-align: center;
     padding: 1rem 2rem;
-    position: fixed;
     width: 100%;
     margin-top: 2rem; /* Add margin to separate it from the contact section */
 }
