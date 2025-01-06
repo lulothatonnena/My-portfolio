@@ -84,6 +84,10 @@ footer {
     margin-top: 2rem; /* Add margin to separate it from the contact section */
 }
 
+footer p {
+    margin-top: 1rem; /* Add space at the top of the text */
+}
+
 /* Socials */
 .social-icons {
     display: flex;
